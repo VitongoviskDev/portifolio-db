@@ -10,6 +10,16 @@
           "CSS",
           "JavaScript"
         ]
+      },
+        {
+        "id": 2,
+        "name": "Alura Books",
+        "image":"https://github.com/VitongoviskDev/portifolio-db/blob/main/images/WatherApp.png",
+        "description": "Aplicativo de livros da área de tecnologia desenvolvido durante curso de HTML e CSS da plataforma Alura",
+        "technologies": [
+          "HTML",
+          "CSS"
+        ]
       }
     ]
   }

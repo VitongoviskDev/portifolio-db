@@ -11,7 +11,9 @@
     {
       "id": 2,
       "name": "CSS",
-      "images": [],
+      "images": [
+        "https://github.com/VitongoviskDev/portifolio-db/blob/main/images/WatherApp.png"
+      ],
       "description": "Com CSS aprendi a estilização de elementos desde inlines até arquivo externo ultilizando seletores básicos, combinados, pseudo-classes e pseudo-elementos, assim como as media querys para manter um layout responsivo"
     },
     {

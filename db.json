@@ -6,7 +6,12 @@
       "images": [
         "https://github.com/VitongoviskDev/portifolio-db/blob/main/images/WatherApp.png"
       ],
-      "description": "Desenvolvidor com HTML, CSS e JavaScript"
+      "description": "Desenvolvidor com HTML, CSS e JavaScript",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "id": 2,
@@ -14,31 +19,56 @@
       "images": [
         "https://github.com/VitongoviskDev/portifolio-db/blob/main/images/WatherApp.png"
       ],
-      "description": "Com CSS aprendi a estilização de elementos desde inlines até arquivo externo ultilizando seletores básicos, combinados, pseudo-classes e pseudo-elementos, assim como as media querys para manter um layout responsivo"
+      "description": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "id": 3,
       "name": "JavaScript",
       "images": [],
-      "description": "Com JavaScript aprendi sobre tipos de dados, funções, eventos e a manipulação do DOM, também estudei call-backs, métodos de array(map, filter, reduce, find), módulos e estrutura de dados como arvores binárias, métodos de ordenação como merge-sort e um pouco mais do que pode ser descrito nesse breve texto"
+      "description": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "id": 4,
       "name": "React.JS",
       "images": [],
-      "description": "Atualmente estou estudando React.Js para facilitar e melhorar o meu desenvolvimento com a componentização e reutilização de código assim como os hooks que ajudam muito na renderização da página"
+      "description": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "id": 5,
       "name": "TypeScript",
       "images": [],
-      "description": "O TypeScript ajuda a deixar o código mais sólido com sua tipagem forte tornando mais fácil detectar e prevenir erros durante a fase de desenvolvimento evitando surpresas de erros durante a execução da aplicação"
+      "description": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "id": 6,
       "name": "GIT",
       "images": [],
-      "description": "Estudo Git para manter meus projetos e repositórios organizados e atualizados e facilitar ao atualizar e refatorar meus códigos"
+      "description": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
     }
   ]
 }

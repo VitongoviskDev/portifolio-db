@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Weather App",
         "image":"https://github.com/VitongoviskDev/portifolio-db/blob/main/images/WatherApp.png",
-        "description": "Desenvolvidor com HTML, CSS e JavaScript",
+        "description": "Aplicação web responsiva que consome a API OpenWeather e exibe informações sobre o clima do local escolhido pelo usuário",
         "technologies": [
           "HTML",
           "CSS",

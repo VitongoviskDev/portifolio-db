@@ -1,0 +1,42 @@
+{
+  projects:[
+    {
+        id:0,
+        name: 'HTML',
+        images: [
+            'https://github.com/VitongoviskDev/portifolio-images/blob/main/Captura%20de%20tela%202023-03-22%20194807.png?raw=true'
+        ],
+        description: 'Com HTML aprendi a estruturar páginas web mantendo as boas práticas na hora de decidir qual o elemento certo para cada situação',
+    },
+    {
+        id:1,
+        name: 'CSS',
+        images: [],
+        description: 'Com CSS aprendi a estilização de elementos desde inlines até arquivo externo ultilizando seletores básicos, combinados, pseudo-classes e pseudo-elementos, assim como as media querys para manter um layout responsivo'
+    },
+    {
+        id:2,
+        name: 'JavaScript',
+        images: [],
+        description: 'Com JavaScript aprendi sobre tipos de dados, funções, eventos e a manipulação do DOM, também estudei call-backs, métodos de array(map, filter, reduce, find), módulos e estrutura de dados como arvores binárias, métodos de ordenação como merge-sort e um pouco mais do que pode ser descrito nesse breve texto'
+    },
+    {
+        id:3,
+        name: 'React.JS',
+        images: [],
+        description: 'Atualmente estou estudando React.Js para facilitar e melhorar o meu desenvolvimento com a componentização e reutilização de código assim como os hooks que ajudam muito na renderização da página'
+    },
+    {
+        id:4,
+        name: 'TypeScript',
+        images: [],
+        description: 'O TypeScript ajuda a deixar o código mais sólido com sua tipagem forte tornando mais fácil detectar e prevenir erros durante a fase de desenvolvimento evitando surpresas de erros durante a execução da aplicação'
+    },
+    {
+        id:5,
+        name: 'GIT',
+        images: [],
+        description: 'Estudo Git para manter meus projetos e repositórios organizados e atualizados e facilitar ao atualizar e refatorar meus códigos',
+    }
+  ]
+}

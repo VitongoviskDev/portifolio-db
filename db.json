@@ -6,7 +6,7 @@
             "images": [
                 "https://github.com/VitongoviskDev/portifolio-images/blob/main/Captura%20de%20tela%202023-03-22%20194807.png?raw=true"
             ],
-            "description": "Com HTML aprendi a estruturar páginas web mantendo as boas práticas na hora de decidir qual o elemento certo para cada situação",
+            "description": "Com HTML aprendi a estruturar páginas web mantendo as boas práticas na hora de decidir qual o elemento certo para cada situação"
         },
         {
             "id":1,
@@ -36,7 +36,7 @@
             "id":5,
             "name": "GIT",
             "images": [],
-            "description": "Estudo Git para manter meus projetos e repositórios organizados e atualizados e facilitar ao atualizar e refatorar meus códigos",
+            "description": "Estudo Git para manter meus projetos e repositórios organizados e atualizados e facilitar ao atualizar e refatorar meus códigos"
         }
     ]
 }

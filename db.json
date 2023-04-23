@@ -1,74 +1,71 @@
 {
-  "projects": [
-    {
-      "id": 1,
-      "name": "Weather App",
-      "images": [
-        "https://github.com/VitongoviskDev/portifolio-db/blob/main/images/WatherApp.png"
-      ],
-      "description": "Desenvolvidor com HTML, CSS e JavaScript",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "CSS",
-      "images": [
-        "https://github.com/VitongoviskDev/portifolio-db/blob/main/images/WatherApp.png"
-      ],
-      "description": "",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "JavaScript",
-      "images": [],
-      "description": "",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    },
-    {
-      "id": 4,
-      "name": "React.JS",
-      "images": [],
-      "description": "",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    },
-    {
-      "id": 5,
-      "name": "TypeScript",
-      "images": [],
-      "description": "",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    },
-    {
-      "id": 6,
-      "name": "GIT",
-      "images": [],
-      "description": "",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    }
-  ]
-}
+    "projects": [
+      {
+        "id": 1,
+        "name": "Weather App",
+        "image":"https://github.com/VitongoviskDev/portifolio-db/blob/main/images/WatherApp.png",
+        "description": "Desenvolvidor com HTML, CSS e JavaScript",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "CSS",
+        "image":"https://github.com/VitongoviskDev/portifolio-db/blob/main/images/WatherApp.png",
+        "description": "",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "JavaScript",
+        "image":"",
+        "description": "",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "React.JS",
+        "image":"",
+        "description": "",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "TypeScript",
+        "image":"",
+        "description": "",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "GIT",
+        "image":"",
+        "description": "",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      }
+    ]
+  }
+  

@@ -5,6 +5,8 @@
         "name": "Weather App",
         "image":"https://github.com/VitongoviskDev/portifolio-db/blob/main/images/WatherApp.png",
         "description": "Aplicação web responsiva que consome a API OpenWeather e exibe informações sobre o clima do local escolhido pelo usuário",
+        "code": "https://github.com/VitongoviskDev/WeatherApp",
+        "demo": "https://vitongoviskdev.github.io/WeatherApp/", 
         "technologies": [
           "HTML",
           "CSS",
@@ -16,6 +18,8 @@
         "name": "Alura Books",
         "image":"https://github.com/VitongoviskDev/portifolio-db/blob/main/images/AluraBooks.png",
         "description": "Aplicativo de livros da área de tecnologia desenvolvido durante curso de HTML e CSS da plataforma Alura",
+        "code": "https://github.com/VitongoviskDev/alurabooks",
+        "demo": "https://alurabooks-vitongoviskdev.vercel.app/", 
         "technologies": [
           "HTML",
           "CSS"

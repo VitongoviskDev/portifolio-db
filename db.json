@@ -39,7 +39,6 @@
           "id": 6,
           "name": "GIT",
           "description":"CRIAR O TEXTO DE GIT",
-          "certified": "Alura",
           "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/git.png"
       }
   ],

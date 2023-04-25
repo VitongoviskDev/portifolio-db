@@ -1,4 +1,13 @@
 {
+    "Abilities": [
+        {
+            "id": 1,
+            "name": "HTML",
+            "description":"Com HTML aprendi a estruturar páginas web mantendo as boas práticas na hora de decidir qual o elemento certo para cada situação",
+            "certified": "Alura",
+            "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/html.png"
+        }
+    ],
     "projects": [
       {
         "id": 1,

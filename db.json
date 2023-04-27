@@ -59,7 +59,7 @@
       {
       "id": 2,
       "name": "Alura Books",
-      "image":"https://github.com/VitongoviskDev/portifolio-db/blob/main/images/AluraBooks1080x1080.png",
+      "image":"https://github.com/VitongoviskDev/portifolio-db/blob/main/images/AluraBooks1080x720.png",
       "description": "Aplicativo de livros da área de tecnologia desenvolvido durante curso de HTML e CSS da plataforma Alura",
       "code": "https://github.com/VitongoviskDev/alurabooks",
       "demo": "https://alurabooks-vitongoviskdev.vercel.app/", 

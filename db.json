@@ -24,7 +24,7 @@
       {
           "id": 4,
           "name": "React.JS",
-          "description":"CRIAR O TEXTO DE React.JS",
+          "description":"Uma das bibliotecas JavaScript mais populares para criação de interfaces dinâmicas e interativas. Tenho conhecimentos componentização, que permite a criação de componentes reutilizáveis e escaláveis, e o uso de hooks para adicionar recursos a componentes funcionais, como o useState e o useEffect. Além disso, tenho experiência em trabalhar com arquivos estáticos, como imagens e folhas de estilo, e da biblioteca de React Router. Também possuo conhecimento em ContextAPI, que permite o compartilhamento de dados entre componentes de forma eficiente. E continuo a estudar para aprimorar meus conhecimentos e habilidades",
           "certified": "Alura",
           "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/reactJs.png"
       },

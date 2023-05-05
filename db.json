@@ -6,7 +6,7 @@
           "description":"Tenho conhecimentos sólidos em HTML, incluindo a estruturação semântica de páginas web, o uso de tags e atributos, e a criação de formulários. Como um aspirante a desenvolvedor full-stack, estou sempre aprendendo e aprimorando minhas habilidades",
           "certified": {
             "plataform": "Alura",
-            "type": "Formação"
+            "type": "Formação",
             "course": "HTML e CSS para projetos web"
           },
           "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/html.png"
@@ -17,7 +17,7 @@
           "description":"Meus conhecimentos em CSS incluem o uso de seletores, propriedades para estilização de elementos HTML. Além disso, possuo habilidades com layouts responsivos, animações e transições e no momento estou estudando sobre pré-processadores como SASS",
           "certified": {
             "plataform": "Alura",
-            "type": "Formação"
+            "type": "Formação",
             "course": "HTML e CSS para projetos web"
           },
           "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/css.png"
@@ -28,7 +28,7 @@
           "description":"Possuo sólido conhecimento em JavaScript, incluindo a manipulação do DOM, funções, módulos e estrutura de dados. Também possuo habilidades em consumo de APIs, que me permite a criação de diversos projetos escaláveis e complexos. Com meu conhecimento em JavaScript, sou capaz de desenvolver soluções front-end e back-end, além de trabalhar com diferentes frameworks e bibliotecas populares. Sempre procurando aprimorar minhas habilidades e conhecimentos para dar o meu melhor.",
           "certified": {
             "plataform": "Alura",
-            "type": "Curso"
+            "type": "Curso",
             "course": "Java Script para web"
           },
           "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/javaScript.png"
@@ -39,7 +39,7 @@
           "description":"Uma das bibliotecas JavaScript mais populares para criação de interfaces dinâmicas e interativas. Tenho conhecimentos componentização, que permite a criação de componentes reutilizáveis e escaláveis. O uso de hooks para adicionar recursos a componentes funcionais, como o useState e o useEffect. Além disso, tenho experiência em trabalhar com arquivos estáticos, como imagens e folhas de estilo. Também sou capaz da ultilizaçãp da biblioteca de React Router para facilitar a criação de rotas dinâmicas e aninhadas e da API ContextAPI, que permite o compartilhamento de dados entre componentes de forma eficiente. E continuo a estudar para aprimorar meus conhecimentos e habilidades",
           "certified": {
             "plataform": "Alura",
-            "type": "Formação"
+            "type": "Formação",
             "course": "Explorando React com JavaScript"
           },
           "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/reactJs.png"
@@ -50,7 +50,7 @@
           "description":"TypeScript é uma linguagem que adiciona tipagem estática e outras funcionalidades ao JavaScript, nos escrever código mais seguro e eficiente, detectar erros em tempo de compilação e melhorar a manutenção do código. Além disso, é altamente integrado com outras ferramentas incluindo o React que têm adotado o TypeScript como linguagem principal. Considero uma ótima escolha para ajudar no desenvolvimento",
           "certified": {
             "plataform": "Alura",
-            "type": "Curso"
+            "type": "Curso",
             "course": "React - Migrando para TypeScript"
           },
           "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/typeScript.png"
@@ -61,7 +61,7 @@
           "description":"Tenho conhecimentos sólidos em Node.js, incluindo a criação de bibliotecas e desenvolvimento do back-ends de aplicações web. Possuo também conhecimento na criação de APIs REST eficientes usando Express, e junto dos meus conhecimentos em outras ferramentas como React e Banco de dados pretendo contruir projetos full-stack cada vez mais complexos e eficientes.",
           "certified": {
             "plataform": "Alura",
-            "type": "Curso"
+            "type": "Curso",
             "course": "APIs REST com Express e MongoDB"
           },
           "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/nodeJs.png"

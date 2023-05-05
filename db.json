@@ -40,6 +40,12 @@
           "name": "Node.Js",
           "description":"CRIAR O TEXTO DE NODE",
           "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/nodeJs.png"
+      },
+      {
+          "id": 7,
+          "name": "C#",
+          "description":"CRIAR O TEXTO DE C#",
+          "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/cSharp.png"
       }
   ],
   "projects": [

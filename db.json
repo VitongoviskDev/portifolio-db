@@ -1,105 +1,117 @@
 {
   "abilities": [
-      {
-          "id": 1,
-          "name": "HTML",
-          "description":"Tenho conhecimentos sólidos em HTML, incluindo a estruturação semântica de páginas web, o uso de tags e atributos, e a criação de formulários. Como um aspirante a desenvolvedor full-stack, estou sempre aprendendo e aprimorando minhas habilidades",
-          "certified": {
-            "plataform": "Alura",
-            "type": "Formação",
-            "course": "HTML e CSS para projetos web"
-          },
-          "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/html.png"
+    {
+      "id": 1,
+      "name": "HTML",
+      "description": "Tenho conhecimentos sólidos em HTML, incluindo a estruturação semântica de páginas web, o uso de tags e atributos, e a criação de formulários. Como um aspirante a desenvolvedor full-stack, estou sempre aprendendo e aprimorando minhas habilidades",
+      "certified": {
+        "plataform": "Alura",
+        "type": "Formação",
+        "course": "HTML e CSS para projetos web"
       },
-      {
-          "id": 2,
-          "name": "CSS",
-          "description":"Meus conhecimentos em CSS incluem o uso de seletores, propriedades para estilização de elementos HTML. Além disso, possuo habilidades com layouts responsivos, animações e transições e no momento estou estudando sobre pré-processadores como SASS",
-          "certified": {
-            "plataform": "Alura",
-            "type": "Formação",
-            "course": "HTML e CSS para projetos web"
-          },
-          "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/css.png"
+      "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/html.png"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "description": "Meus conhecimentos em CSS incluem o uso de seletores, propriedades para estilização de elementos HTML. Além disso, possuo habilidades com layouts responsivos, animações e transições e no momento estou estudando sobre pré-processadores como SASS",
+      "certified": {
+        "plataform": "Alura",
+        "type": "Formação",
+        "course": "HTML e CSS para projetos web"
       },
-      {
-          "id": 3,
-          "name": "JavaScript",
-          "description":"Possuo sólido conhecimento em JavaScript, incluindo a manipulação do DOM, funções, módulos e estrutura de dados. Também possuo habilidades em consumo de APIs, que me permite a criação de diversos projetos escaláveis e complexos. Com meu conhecimento em JavaScript, sou capaz de desenvolver soluções front-end e back-end, além de trabalhar com diferentes frameworks e bibliotecas populares. Sempre procurando aprimorar minhas habilidades e conhecimentos para dar o meu melhor.",
-          "certified": {
-            "plataform": "Alura",
-            "type": "Curso",
-            "course": "Java Script para web"
-          },
-          "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/javaScript.png"
+      "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/css.png"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "description": "Possuo sólido conhecimento em JavaScript, incluindo a manipulação do DOM, funções, módulos e estrutura de dados. Também possuo habilidades em consumo de APIs, que me permite a criação de diversos projetos escaláveis e complexos. Com meu conhecimento em JavaScript, sou capaz de desenvolver soluções front-end e back-end, além de trabalhar com diferentes frameworks e bibliotecas populares. Sempre procurando aprimorar minhas habilidades e conhecimentos para dar o meu melhor.",
+      "certified": {
+        "plataform": "Alura",
+        "type": "Curso",
+        "course": "Java Script para web"
       },
-      {
-          "id": 4,
-          "name": "React.JS",
-          "description":"Uma das bibliotecas JavaScript mais populares para criação de interfaces dinâmicas e interativas. Tenho conhecimentos componentização, que permite a criação de componentes reutilizáveis e escaláveis. O uso de hooks para adicionar recursos a componentes funcionais, como o useState e o useEffect. Além disso, tenho experiência em trabalhar com arquivos estáticos, como imagens e folhas de estilo. Também sou capaz da ultilizaçãp da biblioteca de React Router para facilitar a criação de rotas dinâmicas e aninhadas e da API ContextAPI, que permite o compartilhamento de dados entre componentes de forma eficiente. E continuo a estudar para aprimorar meus conhecimentos e habilidades",
-          "certified": {
-            "plataform": "Alura",
-            "type": "Formação",
-            "course": "Explorando React com JavaScript"
-          },
-          "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/reactJs.png"
+      "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/javaScript.png"
+    },
+    {
+      "id": 4,
+      "name": "React.JS",
+      "description": "Uma das bibliotecas JavaScript mais populares para criação de interfaces dinâmicas e interativas. Tenho conhecimentos componentização, que permite a criação de componentes reutilizáveis e escaláveis. O uso de hooks para adicionar recursos a componentes funcionais, como o useState e o useEffect. Além disso, tenho experiência em trabalhar com arquivos estáticos, como imagens e folhas de estilo. Também sou capaz da ultilizaçãp da biblioteca de React Router para facilitar a criação de rotas dinâmicas e aninhadas e da API ContextAPI, que permite o compartilhamento de dados entre componentes de forma eficiente. E continuo a estudar para aprimorar meus conhecimentos e habilidades",
+      "certified": {
+        "plataform": "Alura",
+        "type": "Formação",
+        "course": "Explorando React com JavaScript"
       },
-      {
-          "id": 5,
-          "name": "TypeScript",
-          "description":"TypeScript é uma linguagem que adiciona tipagem estática e outras funcionalidades ao JavaScript, nos escrever código mais seguro e eficiente, detectar erros em tempo de compilação e melhorar a manutenção do código. Além disso, é altamente integrado com outras ferramentas incluindo o React que têm adotado o TypeScript como linguagem principal. Considero uma ótima escolha para ajudar no desenvolvimento",
-          "certified": {
-            "plataform": "Alura",
-            "type": "Curso",
-            "course": "React - Migrando para TypeScript"
-          },
-          "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/typeScript.png"
+      "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/reactJs.png"
+    },
+    {
+      "id": 5,
+      "name": "TypeScript",
+      "description": "TypeScript é uma linguagem que adiciona tipagem estática e outras funcionalidades ao JavaScript, nos escrever código mais seguro e eficiente, detectar erros em tempo de compilação e melhorar a manutenção do código. Além disso, é altamente integrado com outras ferramentas incluindo o React que têm adotado o TypeScript como linguagem principal. Considero uma ótima escolha para ajudar no desenvolvimento",
+      "certified": {
+        "plataform": "Alura",
+        "type": "Curso",
+        "course": "React - Migrando para TypeScript"
       },
-      {
-          "id": 6,
-          "name": "Node.Js",
-          "description":"Tenho conhecimentos sólidos em Node.js, incluindo a criação de bibliotecas e desenvolvimento do back-ends de aplicações web. Possuo também conhecimento na criação de APIs REST eficientes usando Express, e junto dos meus conhecimentos em outras ferramentas como React e Banco de dados pretendo contruir projetos full-stack cada vez mais complexos e eficientes.",
-          "certified": {
-            "plataform": "Alura",
-            "type": "Curso",
-            "course": "APIs REST com Express e MongoDB"
-          },
-          "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/nodeJs.png"
+      "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/typeScript.png"
+    },
+    {
+      "id": 6,
+      "name": "Node.Js",
+      "description": "Tenho conhecimentos sólidos em Node.js, incluindo a criação de bibliotecas e desenvolvimento do back-ends de aplicações web. Possuo também conhecimento na criação de APIs REST eficientes usando Express, e junto dos meus conhecimentos em outras ferramentas como React e Banco de dados pretendo contruir projetos full-stack cada vez mais complexos e eficientes.",
+      "certified": {
+        "plataform": "Alura",
+        "type": "Curso",
+        "course": "APIs REST com Express e MongoDB"
       },
-      {
-          "id": 7,
-          "name": "C#",
-          "description":"Estudei C# por muito tempo durante a faculdade mas nunca me aprofundei no desenvolvimento web, por isso, agora me dedico a aprender ASP NET para poder desenvolver projeto sólidos e APIs complexas",
-          "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/cSharp.webp"
-      },
-      {
-          "id": 8,
-          "name": "Bancos de dados",
-          "description":"Tenho conhecimentos em bancos de dados, incluindo SQL, PostgreSQL, MySQL e MongoDB. Posso criar bancos de dados e tabelas, realizar pesquisas e garantir a integridade dos dados nunca usando DELETE sem WHERE. Estou em busca de aprimorar minhas habilidades para fornecer soluções confiáveis e eficientes.",
-          "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/database.png"
-      }
+      "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/nodeJs.png"
+    },
+    {
+      "id": 7,
+      "name": "C#",
+      "description": "Estudei C# por muito tempo durante a faculdade mas nunca me aprofundei no desenvolvimento web, por isso, agora me dedico a aprender ASP NET para poder desenvolver projeto sólidos e APIs complexas",
+      "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/cSharp.webp"
+    },
+    {
+      "id": 8,
+      "name": "Bancos de dados",
+      "description": "Tenho conhecimentos em bancos de dados, incluindo SQL, PostgreSQL, MySQL e MongoDB. Posso criar bancos de dados e tabelas, realizar pesquisas e garantir a integridade dos dados nunca usando DELETE sem WHERE. Estou em busca de aprimorar minhas habilidades para fornecer soluções confiáveis e eficientes.",
+      "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/database.png"
+    }
   ],
   "projects": [
     {
       "id": 1,
       "name": "Weather App",
-      "image":"https://github.com/VitongoviskDev/portifolio-db/blob/main/images/WeatherApp.png",
+      "image": "https://github.com/VitongoviskDev/portifolio-db/blob/main/images/WeatherApp.png",
       "description": "Aplicação web responsiva que consome a API OpenWeather e exibe informações sobre o clima do local escolhido pelo usuário",
       "code": "https://github.com/VitongoviskDev/Weather",
-      "demo": "https://weather-vitongoviskdev.vercel.app/", 
+      "demo": "https://weather-vitongoviskdev.vercel.app/",
       "technologies": [
         "HTML",
         "CSS",
         "JavaScript"
       ]
     },
-      {
+    {
       "id": 2,
       "name": "Alura Books",
-      "image":"https://github.com/VitongoviskDev/portifolio-db/blob/main/images/AluraBooks1080x720.png",
+      "image": "https://github.com/VitongoviskDev/portifolio-db/blob/main/images/AluraBooks1080x720.png",
       "description": "Aplicativo de livros da área de tecnologia desenvolvido durante curso de HTML e CSS da plataforma Alura",
       "code": "https://github.com/VitongoviskDev/alurabooks",
-      "demo": "https://alurabooks-vitongoviskdev.vercel.app/", 
+      "demo": "https://alurabooks-vitongoviskdev.vercel.app/",
+      "technologies": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Alura Books",
+      "image": "https://github.com/VitongoviskDev/portifolio-db/blob/main/images/AluraBooks1080x720.png",
+      "description": "Aplicativo de livros da área de tecnologia desenvolvido durante curso de HTML e CSS da plataforma Alura",
+      "code": "https://github.com/VitongoviskDev/alurabooks",
+      "demo": "https://alurabooks-vitongoviskdev.vercel.app/",
       "technologies": [
         "HTML",
         "CSS"
@@ -107,4 +119,3 @@
     }
   ]
 }
-

@@ -74,6 +74,12 @@
     },
     {
       "id": 8,
+      "name": "Java",
+      "description": "Tenho experiência em Java focada no desenvolvimento de APIs REST utilizando Spring Boot. Domino conceitos de orientação a objetos, criação de endpoints, injeção de dependência, controle de rotas e consumo de serviços. Trabalho com estruturação de projetos backend limpos e organizados, priorizando a clareza do código e a escalabilidade das soluções.",
+      "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/JavaLogo.webp"
+    },
+    {
+      "id": 9,
       "name": "Bancos de dados",
       "description": "Tenho conhecimentos em bancos de dados, incluindo SQL, PostgreSQL, MySQL e MongoDB. Posso criar bancos de dados e tabelas, realizar pesquisas e garantir a integridade dos dados nunca usando DELETE sem WHERE. Estou em busca de aprimorar minhas habilidades para fornecer soluções confiáveis e eficientes.",
       "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/database.png"

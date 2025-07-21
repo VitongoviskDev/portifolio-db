@@ -76,6 +76,11 @@
       "id": 8,
       "name": "Java",
       "description": "Tenho experiência em Java focada no desenvolvimento de APIs REST utilizando Spring Boot. Domino conceitos de orientação a objetos, criação de endpoints, injeção de dependência, controle de rotas e consumo de serviços. Trabalho com estruturação de projetos backend limpos e organizados, priorizando a clareza do código e a escalabilidade das soluções.",
+       "certified": {
+        "plataform": "DevSuperior",
+        "type": "Formação",
+        "course": "Java Spring Professional"
+      },
       "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/JavaLogo.webp"
     },
     {

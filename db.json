@@ -12,6 +12,17 @@
       "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/html.png"
     },
     {
+      "id": 1123,
+      "name": "TESTE",
+      "description": "Tenho conhecimentos sólidos em HTML, incluindo a estruturação semântica de páginas web, o uso de tags e atributos, e a criação de formulários. Como um aspirante a desenvolvedor full-stack, estou sempre aprendendo e aprimorando minhas habilidades",
+      "certified": {
+        "plataform": "Alura",
+        "type": "Formação",
+        "course": "HTML e CSS para projetos web"
+      },
+      "icon": "https://github.com/VitongoviskDev/portifolio-db/blob/main/icons/html.png"
+    },
+    {
       "id": 2,
       "name": "CSS",
       "description": "Meus conhecimentos em CSS incluem o uso de seletores, propriedades para estilização de elementos HTML. Além disso, possuo habilidades com layouts responsivos, animações e transições e no momento estou estudando sobre pré-processadores como SASS",
